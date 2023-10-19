@@ -1,27 +1,14 @@
-# Event
+# Freshers Day
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+![image](https://github.com/dxyaa/Event/assets/97349882/3c17c713-b355-4604-b4f1-c02b5d67a8b4)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Welcome to the Freshers' Day website, your one-stop destination for all the information you need to make the most of this special event!
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# About
 
-## Build
+Freshers' Day is a fun-filled event to welcome new students to our institution. It's a day full of excitement, activities, and opportunities to make new friends and lasting memories.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Check it out at : https://event-lake.vercel.app/
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
