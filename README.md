@@ -12,3 +12,7 @@ Freshers' Day is a fun-filled event to welcome new students to our institution. 
 
 Check it out at : https://event-lake.vercel.app/
 
+# Tech STack
+
+* AngularJS
+* TailwindCSS
